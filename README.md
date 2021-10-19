@@ -1,8 +1,9 @@
-### Hi there 👋, FawziaAlMushrafi 
-#### I programmed 
-![I programmed ](https://previews.123rf.com/images/pratyaksa/pratyaksa1607/pratyaksa160700087/59777801-programming-or-coding-icon-programming-editor-symbol-.jpg)
+### Hi there 👋, Fawzia Hassan AlMushrafi 
+#### Developer future.
+![Developer future.](https://blog.acromedia.com/hubfs/Blog%20Images/%28Acro%20Blog%29%20Coding%20Standards%20and%20Development%20-%201.0%20-%20mh.jpg)
 
-Bachelor of Computer Science Graduation Year 2020 From a Princess Nourah Bint Abdulrahman University
-
+Fresh Grade  BCS FromPNU | Student At tuwaiq Academy |  Kotlin Language | Developed Android . 
 
 Skills: Languages HTML, JavaScript, CSS, PHP, SQL, Java, #C, Python , R
+
+- 🔭 I’m currently working on this page.
